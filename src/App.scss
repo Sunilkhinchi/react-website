@@ -1,0 +1,10 @@
+$textColor: green;
+
+.div {
+    color:$textColor;
+
+    
+    .inner{
+        color:red;
+    }
+}
